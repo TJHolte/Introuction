@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TJ Holte, a second year Computer Science and Engineering student at The Ohio State University
 - 👀 I’m interested in getting a software development internship for the summer of 2023
 - 🌱 I’m currently in my third level Java class, a course on discrete data structures, basic electrical engineering, and statistics for engineers
-- 🌰 All programs make use of OSU's own component library
+- 🌰 All code makes use of OSU's own component library
 - 📫 Reach out through my email: tjholte4@gmail.com
